@@ -1,0 +1,151 @@
+# Site settings
+title: Vignesh Radhakrishnan
+twitter_username: vighneshr
+name: Vignesh Radhakrishnan
+
+# Build settings
+markdown: kramdown
+
+#User specific content
+#Links that will appear in the navbar
+primarylinks:
+ - title: Blog
+   url: 
+ - title: GitHub
+   url: https://github.com/vigneshradhakrishnan1
+ - title: StackOverflow
+   url: https://stackoverflow.com/users/5276680/vignesh-r
+ - title: LinkedIn
+   url: https://www.linkedin.com/in/vignesh-radhakrishnan-439009a/1
+
+#Any buzzword skills you want to include
+skills:
+ - Data Science / Analytics
+ - Machine Learning
+ - Product Development
+ - R/ Python/ Julia
+ - Spark/ H2O
+ - Big Data platforms
+
+#Blogfeed is optional - including this will add JS to call the feed and populate blog list
+blogfeed: 
+
+#Work experience is required
+roles:
+ - title: Data Scientist
+   start: 2016
+   end: 2018
+   employer: IBM 
+   description: Design and Develop multiple solutions across Industrial IoT and allied Process industries
+ - title: Lead Engineer/ Data Scientist
+   start: 2015
+   end: 2015
+   employer: Altiux Innovations
+   description: Altiux Innovations is a product engineering, design and Technology services company with expertise in M2M, IoT, Mobility, Big data, Cloud and Analytics. Support development of IoT toolkit and developing Analytics solutions to enhance Altiux’s GTM offerings
+ - title: Manager Analytics
+   start: 2010
+   end: 2015
+   employer: Capgemini (iGATE)
+   description: Managing coordination and delivery of multiple Analytics assignments across industry verticals. Requirement elicitation based on client discussion and planning for deliverables.
+ - title: Business Analyst
+   start: 2005
+   end: 2008
+   employer: Infosys
+   description: Requirement elicitation based on client discussion and planning for deliverables in Healthcare domain
+
+#Education is required
+education:
+ - level: Post Graduate Diploma in Management (PGDM)
+   date: 2010
+   subject: Strategy/ Operations/ Analytics
+   school: Indian Institute of Management, Bangalore
+ - level: Bachelors in Technology (B.Tech.)
+   date: 2005
+   subject: Electrical and Electronics Engineerings
+   school: National Institute of Technology, Calicut
+   
+
+#This section is optional (as is the image link below)
+udemy:
+  profileurl: https://www.udemy.com/user/bf10f85c-3417-46cb-8b63-0d8c238ac438/
+  courses:
+   - title: Deep Learning A-Z - Hands-On Artificial Neural Networks
+     link: https://www.udemy.com/deeplearning/learn/v4/overview
+     optionalimage: https://udemy-images.udemy.com/course/240x135/1151632_de9b.jpg
+     date:  July 2017
+   - title: Computer Vision Intro OpenCV3 in Python & Machine Learning
+     link: https://www.udemy.com/master-computer-vision-with-opencv-in-python/learn/v4/overview
+     optionalimage: https://udemy-images.udemy.com/course/240x135/950614_0837_2.jpg
+     date:  April 2017
+   - title: Data Science - Deep learning in Python
+     link: https://www.udemy.com/data-science-deep-learning-in-python/learn/v4/overview
+     optionalimage: https://udemy-images.udemy.com/course/240x135/713104_d4cb.jpg
+     date:  September 2017
+   - title: Artificial Intelligence - Reinforcement Learning in Pythonn
+     link: https://www.udemy.com/artificial-intelligence-reinforcement-learning-in-python/learn/v4/overview
+     optionalimage: https://udemy-images.udemy.com/course/240x135/713104_d4cb.jpg
+     date:  January 2018
+      
+edX:
+  profileurl: https://courses.edx.org/u/vignesh_radhakrishnan
+  courses:
+   - title: Introduction to Big Data with Apache Spark
+     link: https://s3.amazonaws.com/verify.edx.org/downloads/5e3225ee2ca44e129bf82db479c310f6/Certificate.pdf
+     optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+     date:  July 2015
+   - title:  Scalable Machine Learning
+     link: https://s3.amazonaws.com/verify.edx.org/downloads/fe974595ba2a454c92d0862acf2fec04/Certificate.pdf
+     optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+     date:  August 2015
+            
+coursera:
+  profileurl: https://www.coursera.org/user/72fac4fcc3c1aa7407345027b8fe730a
+  courses:
+   - title: Functional Programming Principles in Scala
+     link: https://www.coursera.org/course/progfun
+     optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+     date: September 16, 2013
+   - title: Algorithms Design and Analysis, Part 1
+     link: https://www.coursera.org/course/progfun
+     optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
+     date: April 28, 2014
+     
+#List of interesting Github repo/projects to include - optional
+github:
+ - ujjwalkarn/DataSciencePython
+ - ChristosChristofidis/awesome-deep-learning
+ - lisa-lab/DeepLearningTutorials
+ - ujjwalkarn/DataScienceR
+ - dgrtwo/tidy-text-mining
+ - jaberg/skdata
+ - bulutyazilim/awesome-datascience
+ - rushter/MLAlgorithms
+ - sqreen/awesome-nodejs-projects
+ - chrisalbon/mlai
+ - tamingtext/book
+ - stitchfix/d3-jupyter-tutorial
+
+#Stackoverflow flair is optional
+#stackoverflow:
+#   profileurl: https://stackoverflow.com/users/5276680/vignesh-r
+#   flairimageurl: 
+
+#Mobile apps section is optional
+#apps:
+# - name: Chuck the Quiz
+#   platform: Android
+#   url: https://play.google.com/store/apps/details?id=com.tmm.android.chuck&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50bW0uYW5kcm9pZC5jaHVjayJd
+#   description: A basic early Android app (open sourced)
+
+#An additional info freetext section is optional at the bottom of the page - can be text or HTML
+additionalinfo: |
+   <strong>Analytics Skills</strong>: Multivariate techniques & Predictive modeling – Logistic and Regression analysis, ARIMA and Time series modeling, Decision trees, Association models, Cluster analysis, PCA, NLP, ANN, Feature Engineering, Deep Learning, Computer Vision. <br/><br/>
+   <strong>Domains</strong>: Industrial, Home automation, IoT, Manufacturing/ Process, Retail, Banking.<br/><br/>
+   <strong>Data Mining/ ML</strong>: Python, R/ Rstudio, Knime, SparkML, Julia, Weka, H2O.<br/><br/>
+   <strong>Platforms</strong>: Anaconda, R studio server, IBM Bluemix, IBM DSX, Jupyter notebook, Apache Zeppelin.<br/><br/>
+   <strong>Deep Learning</strong>: Tensorflow, Theano, Keras, Python <br/><br/>
+   <strong>NLP</strong>: Tesseract, NLTK, StanfordNLP, Python <br/><br/>
+   <strong>Storage</strong>: MongoDB, Cassandra, ElasticSearch, InfluxDB, dashDB, SQLite, HBASE, Pig <br/><br/>
+   <strong>Visualization</strong>: ggplot, Bokeh, Grafana, Tableau, QlikView <br/><br/>
+   <strong>Ingestion/ ETL</strong>: NodeJS, SpringXD, Kafka, MQTT <br/><br/> 
+   I also have experience in working with and ideating PoCs with devices such as Industrial Sensors/ RaspberryPi/ Arduino for Industrial IoT and Home automation use cases
