@@ -108,8 +108,8 @@ coursera:
      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
      date: September 2015
    - title: Neural Networks for Machine Learning
-     link: https://www.coursera.org/learn/neural-networks/home/welcome
-     optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/topics/neuralnets/large-icon.png?auto=format%2Ccompress&dpr=1&w=80&h=80&fit=fill&bg=FFF
+     link: https://www.coursera.org/learn/neural-networks
+     optionalimage: <link rel="icon" type="image/jpg" href="./img/dl.jpg">
      date: February 2018
      
 #List of interesting Github repo/projects to include - optional
