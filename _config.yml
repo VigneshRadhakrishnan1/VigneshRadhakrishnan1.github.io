@@ -109,7 +109,7 @@ coursera:
      date: September 2015
    - title: Neural Networks for Machine Learning
      link: https://www.coursera.org/learn/neural-networks
-     optionalimage: <link rel="icon" type="image/jpg" href="./img/dl.jpg">
+     optionalimage: 
      date: February 2018
      
 #List of interesting Github repo/projects to include - optional
