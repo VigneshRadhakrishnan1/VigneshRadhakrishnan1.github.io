@@ -93,11 +93,11 @@ edX:
   courses:
    - title: Introduction to Big Data with Apache Spark
      link: https://s3.amazonaws.com/verify.edx.org/downloads/5e3225ee2ca44e129bf82db479c310f6/Certificate.pdf
-     optionalimage: https://www.edx.org/sites/default/files/course/image/promoted/v2-intro-datascience-378x225.jpg
+     optionalimage: https://hortonworks.com/tutorial/intro-to-machine-learning-with-apache-spark-and-apache-zeppelin/
      date:  July 2015
    - title:  Scalable Machine Learning
      link: https://s3.amazonaws.com/verify.edx.org/downloads/fe974595ba2a454c92d0862acf2fec04/Certificate.pdf
-     optionalimage: https://www.edx.org/sites/default/files/v2_spark-series-edx-_378x225_.jpg
+     optionalimage: https://hortonworks.com/tutorial/intro-to-machine-learning-with-apache-spark-and-apache-zeppelin/
      date:  August 2015
             
 coursera:
@@ -109,7 +109,7 @@ coursera:
      date: September 2015
    - title: Neural Networks for Machine Learning
      link: https://www.coursera.org/learn/neural-networks
-     optionalimage: 
+     optionalimage: https://www.google.co.in/imgres?imgurl=https%3A%2F%2Fdac.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Ftemplate_header_image%2Fpublic%2Fdigital-brain-header.png%3Fitok%3D-eGzGms4&imgrefurl=https%3A%2F%2Fdac.com%2Fcontent%2Fdeep-learning&docid=8iQVhvCyhpqQiM&tbnid=Z_PtJIeFQ1BPAM%3A&vet=10ahUKEwjX7-T04NzZAhVFRo8KHVmLB7YQMwjcASgfMB8..i&w=430&h=200&bih=949&biw=1920&q=deep%20learning&ved=0ahUKEwjX7-T04NzZAhVFRo8KHVmLB7YQMwjcASgfMB8&iact=mrc&uact=8
      date: February 2018
      
 #List of interesting Github repo/projects to include - optional
