@@ -93,11 +93,11 @@ edX:
   courses:
    - title: Introduction to Big Data with Apache Spark
      link: https://s3.amazonaws.com/verify.edx.org/downloads/5e3225ee2ca44e129bf82db479c310f6/Certificate.pdf
-     optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+     optionalimage: https://www.edx.org/sites/default/files/course/image/promoted/v2-intro-datascience-378x225.jpg
      date:  July 2015
    - title:  Scalable Machine Learning
      link: https://s3.amazonaws.com/verify.edx.org/downloads/fe974595ba2a454c92d0862acf2fec04/Certificate.pdf
-     optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+     optionalimage: https://www.edx.org/sites/default/files/v2_spark-series-edx-_378x225_.jpg
      date:  August 2015
             
 coursera:
@@ -106,11 +106,11 @@ coursera:
    - title: Functional Programming Principles in Scala
      link: https://www.coursera.org/course/progfun
      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-     date: September 16, 2013
-   - title: Algorithms Design and Analysis, Part 1
-     link: https://www.coursera.org/course/progfun
-     optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-     date: April 28, 2014
+     date: September 2015
+   - title: Neural Networks for Machine Learning
+     link: https://www.coursera.org/learn/neural-networks/home/welcome
+     optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/topics/neuralnets/large-icon.png?auto=format%2Ccompress&dpr=1&w=80&h=80&fit=fill&bg=FFF
+     date: February 2018
      
 #List of interesting Github repo/projects to include - optional
 github:
