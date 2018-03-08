@@ -9,14 +9,16 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: 
  - title: GitHub
    url: https://github.com/vigneshradhakrishnan1
- - title: StackOverflow
-   url: https://stackoverflow.com/users/5276680/vignesh-r
  - title: LinkedIn
    url: https://www.linkedin.com/in/vignesh-radhakrishnan-439009a/1
+ - title: Twitter
+   url: https://twitter.com/vighneshr
+ - title: StackOverflow
+   url: https://stackoverflow.com/users/5276680/vignesh-r
+ - title: Blog
+   url: 
 
 #Any buzzword skills you want to include
 skills:
