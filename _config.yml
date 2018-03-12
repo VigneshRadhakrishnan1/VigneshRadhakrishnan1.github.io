@@ -93,11 +93,11 @@ edX:
   courses:
    - title: Introduction to Big Data with Apache Spark
      link: https://s3.amazonaws.com/verify.edx.org/downloads/5e3225ee2ca44e129bf82db479c310f6/Certificate.pdf
-     optionalimage: https://www.edx.org/sites/default/files/course/image/promoted/v2-intro-datascience-378x225.jpg
+     optionalimage: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjU5I-YcEKxFEhcDt_swQho6PHOt09ywVrgB_iWD12K3GQ4kfv8Q
      date:  July 2015
    - title:  Scalable Machine Learning
      link: https://s3.amazonaws.com/verify.edx.org/downloads/fe974595ba2a454c92d0862acf2fec04/Certificate.pdf
-     optionalimage: https://www.edx.org/sites/default/files/course/image/promoted/v2-intro-datascience-378x225.jpg
+     optionalimage: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjU5I-YcEKxFEhcDt_swQho6PHOt09ywVrgB_iWD12K3GQ4kfv8Q
      date:  August 2015
             
 coursera:
