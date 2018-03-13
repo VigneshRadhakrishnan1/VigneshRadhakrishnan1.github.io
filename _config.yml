@@ -114,7 +114,7 @@ coursera:
      
 #List of interesting Github repo/projects to include - optional
 github:
- - ujjwalkarn/DataSciencePython
+ - vigneshradhakrishnan1/DataSciencePython
  - vigneshradhakrishnan1/awesome-deep-learning
  - vigneshradhakrishnan1/DeepLearningTutorials
  - vigneshradhakrishnan1/DataScienceR
