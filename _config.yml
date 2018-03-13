@@ -38,7 +38,7 @@ roles:
    start: 2016
    end: 2018
    employer: IBM 
-   description: Design and Develop multiple solutions across Industrial IoT and allied Process industries
+   description: Design and Development of multiple solutions across Industrial IoT and allied Process industries. C-level client discussions and Product offering management.
  - title: Lead Engineer/ Data Scientist
    start: 2015
    end: 2015
@@ -48,12 +48,12 @@ roles:
    start: 2010
    end: 2015
    employer: Capgemini (iGATE)
-   description: Managing coordination and delivery of multiple Analytics assignments across industry verticals. Requirement elicitation based on client discussion and planning for deliverables.
+   description: Managing coordination and delivery of multiple Analytics assignments across industry verticals.</br> <br> Program management for the Chief Delivery Officer (CDO Office).
  - title: Business Analyst
    start: 2005
    end: 2008
    employer: Infosys
-   description: Requirement elicitation based on client discussion and planning for deliverables in Healthcare domain
+   description: Requirement elicitation based on client discussion and planning for deliverables in Healthcare domain. 
 
 #Education is required
 education:
