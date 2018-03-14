@@ -116,7 +116,7 @@ coursera:
 github:
  - josephmisiti/awesome-machine-learning
  - ChristosChristofidis/awesome-deep-learning
- - lisa-lab/DeepLearningTutorialss
+ - lisa-lab/DeepLearningTutorials
  - dennybritz/reinforcement-learning
  - dgrtwo/tidy-text-mining
  - yunjey/pytorch-tutorial
