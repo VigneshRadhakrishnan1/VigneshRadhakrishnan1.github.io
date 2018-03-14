@@ -48,7 +48,7 @@ roles:
    start: 2010
    end: 2015
    employer: Capgemini (iGATE)
-   description: Managing coordination and delivery of multiple Analytics assignments across industry verticals.</br><br> Program management office managing Strategic initiatives for the Chief Delivery Officer (CDO Office).
+   description: Managing coordination and delivery of multiple Analytics assignments across industry verticals.<br/><br/>Program management office managing Strategic initiatives for the Chief Delivery Officer (CDO Office).
  - title: Business Analyst
    start: 2005
    end: 2008
@@ -152,3 +152,8 @@ additionalinfo: |
    <strong>Visualization</strong>: ggplot, Bokeh, Grafana, Tableau, QlikView <br/><br/>
    <strong>Ingestion/ ETL</strong>: NodeJS, SpringXD, Kafka, MQTT <br/><br/> 
    I also have experience in working with and ideating PoCs with devices such as Industrial Sensors/ RaspberryPi/ Arduino for Industrial IoT and Home automation use cases
+
+#A project section to add freetext for projects I have worked on
+projects:
+   <strong>Process analytics for Phosphoric acid plant</strong>: Developed multiple models for identifying relationship between the controlled process parameters and their impact on the Physical and Chemical characteristics of the end product. Carried out on R server platform with user interface developed on R shiny environment.<br/><br/>
+   <strong>Cognitive Plant Advisor platform</strong> : : Platform solution to provide an end to end solution for industrial environments using historian and sensor data , with Image/ Text analytics. Developed on Python/ Spark/ IBM Bluemix/ Hadoop platform
