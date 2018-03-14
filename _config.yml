@@ -148,5 +148,5 @@ additionalinfo: |
 
 #A project section to add freetext for projects I have worked on
 projects:
-   <strong>Process analytics for Phosphoric acid plant</strong>: Developed multiple models for identifying relationship between the controlled process parameters and their impact on the Physical and Chemical characteristics of the end product. Carried out on R server platform with user interface developed on R shiny environment.<br/><br/>
-   <strong>Cognitive Plant Advisor platform</strong>: Platform solution to provide an end to end solution for industrial environments using historian and sensor data , with Image/ Text analytics. Developed on Python/ Spark/ IBM Bluemix/ Hadoop platform.<br/><br/>
+   <strong>Process analytics for Phosphoric acid plant</strong>: Developed multiple models for identifying relationship between the controlled process parameters and their impact on the Physical and Chemical characteristics of the end product. Carried out on R server platform with user interface developed on R shiny environment<br/><br/>
+   <strong>Cognitive Plant Advisor platform</strong>: Platform solution to provide an end to end solution for industrial environments using historian and sensor data , with Image/ Text analytics. Developed on Python/ Spark/ IBM Bluemix/ Hadoop platform<br/><br/>
