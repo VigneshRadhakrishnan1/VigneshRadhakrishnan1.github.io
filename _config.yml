@@ -118,14 +118,14 @@ github:
  - ChristosChristofidis/awesome-deep-learning
  - lisa-lab/DeepLearningTutorials
  - dennybritz/reinforcement-learning
- - dgrtwo/tidy-text-mining
+ - keon/awesome-nlp
  - yunjey/pytorch-tutorial
  - bulutyazilim/awesome-datascience
  - joelgrus/data-science-from-scratch
  - sqreen/awesome-nodejs-projects
  - fastai/courses
  - rlabbe/Kalman-and-Bayesian-Filters-in-Python
- - oxford-cs-deepnlp-2017/lectures
+ - jbhuang0604/awesome-computer-vision
 
 #Stackoverflow flair is optional
 #stackoverflow:
