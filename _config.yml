@@ -114,18 +114,18 @@ coursera:
      
 #List of interesting Github repo/projects to include - optional
 github:
- - ujjwalkarn/DataSciencePython
+ - josephmisiti/awesome-machine-learning
  - ChristosChristofidis/awesome-deep-learning
  - lisa-lab/DeepLearningTutorialss
  - dennybritz/reinforcement-learning
  - dgrtwo/tidy-text-mining
- - jaberg/skdata
+ - yunjey/pytorch-tutorial
  - bulutyazilim/awesome-datascience
- - rushter/MLAlgorithms
- - sqreen/awesome-nodejs-projects
  - joelgrus/data-science-from-scratch
+ - sqreen/awesome-nodejs-projects
+ - fastai/courses
  - rlabbe/Kalman-and-Bayesian-Filters-in-Python
- - stitchfix/d3-jupyter-tutorial
+ - oxford-cs-deepnlp-2017/lectures
 
 #Stackoverflow flair is optional
 #stackoverflow:
