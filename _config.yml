@@ -34,17 +34,17 @@ blogfeed:
 
 #Work experience is required
 roles:
- - title: Data Scientist
+ - title: Data Science and Strategy Consultant
    start: 2016
    end: 2018
    employer: IBM 
    description: Design and Development of multiple solutions across Industrial IoT and allied Process industries. C-level client discussions and Product offering management.
- - title: Lead Engineer/ Data Scientist
+ - title: Lead Engineer – Big Data & Analytics
    start: 2015
    end: 2015
    employer: Altiux Innovations
    description: Altiux Innovations is a product engineering, design and Technology services company with expertise in M2M, IoT, Mobility, Big data, Cloud and Analytics. Support development of IoT toolkit and developing Analytics solutions to enhance Altiux’s GTM offerings
- - title: Manager Analytics
+ - title: Analytics Manager (Business Intelligence & Analytics)
    start: 2010
    end: 2015
    employer: Capgemini (iGATE)
